@@ -32,3 +32,7 @@ You cannot:
 The ownership of the Design system remains with the Arcade development team. 
 You are required to abide by the licensing terms to avoid termination in case of non-compliance with the agreed terms.
 
+---
+
+Got any further questions? Send us an [email](mailto:blv.dmitry@gmail.com)
+
