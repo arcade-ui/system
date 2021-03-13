@@ -34,5 +34,5 @@ You are required to abide by the licensing terms to avoid termination in case of
 
 ---
 
-Got any further questions? Send us an [email](mailto:blv.dmitry@gmail.com)
+Got any further questions? [Send us an email](mailto:blv.dmitry@gmail.com)
 
